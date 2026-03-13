@@ -1,7 +1,5 @@
 # Seaphere
 
-https://www.figma.com/proto/DmTAMfpnp2njNiZ9WlpnNd/-MAIN--Seaphere?node-id=1-5&p=f&t=gop9hugftVGeRX2O-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5&show-proto-sidebar=1
-
 ## Team Members
 - Natasha Maisarah binti Zaki
 - Izzat Fakhrullah bin Karim
@@ -23,3 +21,12 @@ Supports inclusive online meetings with live discussion translation and integrat
 
 ### 4. Community Hub
 A shared platform where users can explore ASEAN cultures through moderated discussions and AI-powered tooltips that provide quick cultural insights and context during interactions.
+
+## Figma Link
+https://www.figma.com/design/DmTAMfpnp2njNiZ9WlpnNd/-MAIN--Seaphere?node-id=0-1&t=cJ85pwbhniayYnuO-1
+
+## Figma Prototype
+https://www.figma.com/proto/DmTAMfpnp2njNiZ9WlpnNd/-MAIN--Seaphere?node-id=1-5&p=f&t=gop9hugftVGeRX2O-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5&show-proto-sidebar=1
+
+## Video Demo
+https://youtu.be/X13sloPurQE
